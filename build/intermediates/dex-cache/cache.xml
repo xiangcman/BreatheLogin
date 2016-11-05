@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/pre-dexed/debug/classes-994377e8ed27e3bb01047e83d51cd1f15b5c4e07.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-3ea3d45acd10664137f1ef21fc4cde4327848f75.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/pre-dexed/debug/classes-cd7dcd0fb4db94cb7222b868bfb80f5ba5f4805d.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/pre-dexed/debug/classes-a5d9778e0334476220f2bd1b1eeabfe65d96652e.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/pre-dexed/debug/classes-469fef6e99277480ba3a33a3c73ba23c31d8087b.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-0a7e597367c06b6fa37877cf6db58365ef049252.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/xiangcheng/Downloads/BreatheLogin/app/build/intermediates/pre-dexed/debug/classes-b161ef3e21b056d98d4bf6c0450a6019eb2e9612.jar" />
+    </item>
+
+</items>
